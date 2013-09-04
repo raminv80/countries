@@ -1334,30 +1334,6 @@ CR:
   un_locode: CR
   languages:
     - es
-CU: 
-  alpha2: CU
-  alpha3: CUB
-  country_code: "53"
-  currency: CUP
-  international_prefix: "119"
-  ioc: CUB
-  latitude: "21 30 N"
-  longitude: "80 00 W"
-  name: Cuba
-  names: 
-    - Cuba
-    - Kuba
-  national_destination_code_lengths: 
-    - 2
-  national_number_lengths: 
-    - 8
-  national_prefix: "0"
-  number: "192"
-  region: Americas
-  subregion: Caribbean
-  un_locode: CU
-  languages:
-    - es
 CV: 
   alpha2: CV
   alpha3: CPV
@@ -3203,33 +3179,6 @@ KN:
   un_locode: KN
   languages:
     - en
-KP: 
-  alpha2: KP
-  alpha3: PRK
-  country_code: "850"
-  currency: KPW
-  international_prefix: "00"
-  ioc: PRK
-  latitude: "40 00 N"
-  longitude: "127 00 E"
-  name: "Korea, Democratic People's Republic Of"
-  names: 
-    - "Korea (North)"
-    - Nordkorea
-    - "Corée du Nord"
-    - "Corea del Norte"
-  national_destination_code_lengths: 
-    - 2
-  national_number_lengths: 
-    - 8
-    - 9
-  national_prefix: "0"
-  number: "408"
-  region: Asia
-  subregion: "Eastern Asia"
-  un_locode: KP
-  languages:
-    - ko
 KR: 
   address_format: |-
       {{recipient}}
@@ -3880,33 +3829,6 @@ ML:
   un_locode: ML
   languages:
     - fr
-MM: 
-  alpha2: MM
-  alpha3: MMR
-  country_code: "95"
-  currency: MNK
-  international_prefix: "00"
-  ioc: MYA
-  latitude: "22 00 N"
-  longitude: "98 00 E"
-  name: Myanmar
-  names: 
-    - Myanmar
-    - Myanmar
-    - Myanmar
-    - Myanmar
-  national_destination_code_lengths: 
-    - 2
-  national_number_lengths: 
-    - 7
-    - 8
-  national_prefix: None
-  number: "104"
-  region: Asia
-  subregion: "South-Eastern Asia"
-  un_locode: MM
-  languages:
-    - my
 MN: 
   alpha2: MN
   alpha3: MNG
@@ -5236,32 +5158,6 @@ SC:
   languages:
     - fr
     - en
-SD: 
-  alpha2: SD
-  alpha3: SDN
-  country_code: "249"
-  currency: SDG
-  international_prefix: "00"
-  ioc: SUD
-  latitude: "15 00 N"
-  longitude: "30 00 E"
-  name: Sudan
-  names: 
-    - Sudan
-    - Soudan
-    - Sudán
-  national_destination_code_lengths: 
-    - 2
-  national_number_lengths: 
-    - 9
-  national_prefix: "0"
-  number: "736"
-  region: Africa
-  subregion: "Northern Africa"
-  un_locode: SD
-  languages:
-    - ar
-    - en
 SE: 
   address_format: |-
       {{recipient}}
@@ -5615,38 +5511,6 @@ SV:
   un_locode: SV
   languages:
     - es
-SY: 
-  address_format: |-
-      {{recipient}}
-      {{street}}
-      {{postalcode}} {{city}}
-      {{country}}
-  alpha2: SY
-  alpha3: SYR
-  country_code: "963"
-  currency: SYP
-  international_prefix: "00"
-  ioc: SYR
-  latitude: "35 00 N"
-  longitude: "38 00 E"
-  name: "Syrian Arab Republic"
-  names: 
-    - Syria
-    - Syrien
-    - Syrie
-    - Siria
-  national_destination_code_lengths: 
-    - 2
-  national_number_lengths: 
-    - 7
-    - 8
-  national_prefix: "0"
-  number: "760"
-  region: Asia
-  subregion: "Western Asia"
-  un_locode: SY
-  languages:
-    - ar
 SZ: 
   alpha2: SZ
   alpha3: SWZ
